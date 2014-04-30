@@ -11,3 +11,7 @@ TI-Nspire Lua script extractor from .tns files, with the help of the computer so
 * Copy (put in clipboard) the tab where the lua script is
 * Simply launch the .jar file (you'll need to have Java installed)
 * The extracted Lua source code will be in the same folder as the .jar
+
+
+Needless to say, don't be evil and use it for goof, legitimate purposes (i.e. if you lost the password of your script).
+I will not be held responsible for whatever can happen with this tool :)
