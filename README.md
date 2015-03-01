@@ -13,5 +13,5 @@ TI-Nspire Lua script extractor from .tns files, with the help of the computer so
 * The extracted Lua source code will be in the same folder as the .jar
 
 
-Needless to say, don't be evil and use it for goof, legitimate purposes (i.e. if you lost the password of your script).
+Needless to say, don't be evil and use it for good, legitimate purposes (i.e. if you lost the password of *your* script).
 I will not be held responsible for whatever can happen with this tool :)
